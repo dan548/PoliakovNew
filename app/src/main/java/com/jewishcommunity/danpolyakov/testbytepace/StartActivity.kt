@@ -11,7 +11,7 @@ class StartActivity : AppCompatActivity() {
         setContentView(R.layout.activity_start)
 
         val document = Jsoup.connect("https://forum.awd.ru/viewtopic.php?f=1011&t=165935").get()
-        
+
 
     }
 }
