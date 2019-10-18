@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TestBytepace</string>
+    <string name="link">Ссылка</string>
+    <string name="next">Далее</string>
+</resources>
